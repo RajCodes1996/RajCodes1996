@@ -16,7 +16,7 @@
 
 ```python
 class RajCodes:
-    name       = "Raj (RajCodes1996)"
+    name       = "Rajarshi Yadav (RajCodes1996)"
     pronouns   = "he/him"
     location   = "India 🇮🇳"
     linkedin   = "linkedin.com/in/rajarshiY1996"
