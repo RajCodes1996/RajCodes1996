@@ -1,29 +1,7 @@
 <div align="center">
 
-<!-- SVG Banner — no external service, renders perfectly on all devices -->
-<svg width="100%" viewBox="0 0 860 130" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="50%" style="stop-color:#0f1f3d"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="40%" style="stop-color:#388bfd"/>
-      <stop offset="100%" style="stop-color:#0d1117"/>
-    </linearGradient>
-  </defs>
-  <rect width="860" height="130" fill="url(#bg)" rx="10"/>
-  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle"
-        font-family="monospace" font-size="26" font-weight="bold" fill="#e6edf3"
-        letter-spacing="1">Rajarshi Yadav | Software Developer</text>
-  <text x="50%" y="78%" dominant-baseline="middle" text-anchor="middle"
-        font-family="monospace" font-size="13" fill="#58a6ff" letter-spacing="2">
-    Python · Django · Machine Learning · Full-Stack
-  </text>
-  <rect x="80" y="118" width="700" height="2" fill="url(#line)" rx="1"/>
-</svg>
+<!-- Animated Header using capsule-render with explicit hex gradient — mobile safe -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,60:1a3a6b,100:0d1117&height=200&section=header&text=Rajarshi%20Yadav&fontSize=50&fontColor=e6edf3&animation=fadeIn&fontAlignY=40&desc=Software%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20ML&descSize=18&descAlignY=62&descColor=58a6ff" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+Machine+Learning;Building+Real-World+AI+Solutions+%F0%9F%A4%96;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -36,6 +14,7 @@
 </a>
 
 </div>
+
 ---
 
 ## 👋 About Me
