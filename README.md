@@ -17,7 +17,7 @@
   <rect width="860" height="130" fill="url(#bg)" rx="10"/>
   <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle"
         font-family="monospace" font-size="26" font-weight="bold" fill="#e6edf3"
-        letter-spacing="1">Rajarshi Yadav &amp;nbsp;|&amp;nbsp; Software Developer</text>
+        letter-spacing="1">Rajarshi Yadav &amp;|&amp;Software Developer</text>
   <text x="50%" y="78%" dominant-baseline="middle" text-anchor="middle"
         font-family="monospace" font-size="13" fill="#58a6ff" letter-spacing="2">
     Python · Django · Machine Learning · Full-Stack
