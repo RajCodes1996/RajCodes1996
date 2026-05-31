@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=120&section=header&text=Raj%20%7C%20Software%20Developer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=120&section=header&text=RajarshiYadav&%20%7C%20Software%20Developer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
 <!-- Typing animation -->
 <a href="https://github.com/RajCodes1996">
