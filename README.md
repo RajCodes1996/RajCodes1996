@@ -115,11 +115,11 @@ class RajCodes:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RajCodes1996&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&rank_icon=github&cache_seconds=86400">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=RajCodes1996&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&rank_icon=github&cache_seconds=86400" />
+  <!-- <img height="160px" src="https://github-readme-stats.vercel.app/api?username=RajCodes1996&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&rank_icon=github&cache_seconds=86400" /> -->
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RajCodes1996&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=86400">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajCodes1996&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=86400" />
+  <!-- <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajCodes1996&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=86400" /> -->
 </picture>
 
 </div>
