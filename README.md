@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:388bfd&height=120&section=header&text=Rajarshi-Yadav%20%7C%20Software%20Developer&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=header&text=Rajarshi%20Yadav%20%7C%20Software%20Developer&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+Machine+Learning;Building+Real-World+AI+Solutions+%F0%9F%A4%96;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -18,9 +18,9 @@
 
 ## 👋 About Me
 
-\`\`\`python
+```python
 class RajCodes:
-    name       = "Raj  |  RajCodes1996"
+    name       = "Rajarshi Yadav  |  RajCodes1996"
     pronouns   = "he/him"
     location   = "India 🇮🇳"
     linkedin   = "linkedin.com/in/rajarshiY1996"
@@ -32,7 +32,7 @@ class RajCodes:
 
     def greet(self):
         return "Thanks for visiting! Let's build something great together 🤝"
-\`\`\`
+```
 
 ---
 
@@ -113,27 +113,21 @@ class RajCodes:
 
 <div align="center">
 
-<a href="https://github.com/RajCodes1996">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=RajCodes1996&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&rank_icon=github" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajCodes1996&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RajCodes1996&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&rank_icon=github&cache_seconds=86400">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=RajCodes1996&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&rank_icon=github&cache_seconds=86400" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RajCodes1996&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=86400">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajCodes1996&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6&cache_seconds=86400" />
+</picture>
 
 </div>
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=RajCodes1996&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=388bfd&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-</a>
+<img src="https://streak-stats.demolab.com?user=RajCodes1996&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=388bfd&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&cache_seconds=86400" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajCodes1996&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6" />
 </div>
 
 ---
@@ -146,6 +140,16 @@ class RajCodes:
 
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RajCodes1996&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=6)
+
+</div>
+
+---
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -153,7 +157,6 @@ class RajCodes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajarshiY1996)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajCodes1996)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rajarshiyadav1@gmail.com)
-
 
 </div>
 
