@@ -140,16 +140,6 @@ class RajCodes:
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RajCodes1996&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=6)
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
